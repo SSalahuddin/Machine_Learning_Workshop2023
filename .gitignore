@@ -1,0 +1,11 @@
+# Ignore IPython notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Other general ignores (you can customize these as needed)
+.DS_Store
+*.log
+*.csv
+*.txt
